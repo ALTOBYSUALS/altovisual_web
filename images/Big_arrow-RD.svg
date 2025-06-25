@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 2L78 78" stroke="#FF7B1C" stroke-width="4"/>
+<mask id="path-2-inside-1_509_955" fill="white">
+<path d="M0 80H79.9996V0"/>
+</mask>
+<path d="M79.9996 80H83.9996V84H79.9996V80ZM0 76H79.9996V84H0V76ZM75.9996 80V0H83.9996V80H75.9996Z" fill="#FF7B1C" mask="url(#path-2-inside-1_509_955)"/>
+</svg>
